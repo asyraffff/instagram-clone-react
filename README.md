@@ -1,4 +1,18 @@
-![live demo](https://www.loom.com/share/67721709d8fc476a98b00d8b76ad1642)
+##Instagram Clone 🚀🚀🚀
+
+##Front end
+
+✅Reactjs
+✅MaterialUI
+
+##Back-end + Database
+✅Firebase
+
+##Live demo😃😍😍😍
+
+https://instagram-clone-react-97c56.web.app/
+
+___________________________________________________________________________________________________________________
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
