@@ -1,14 +1,14 @@
-##Instagram Clone 🚀🚀🚀
+## Instagram Clone 🚀🚀🚀
 
-##Front end
+## Front end
 
 ✅Reactjs
 ✅MaterialUI
 
-##Back-end + Database
+## Back-end + Database
 ✅Firebase
 
-##Live demo😃😍😍😍
+## Live demo😃😍😍😍
 
 https://instagram-clone-react-97c56.web.app/
 
